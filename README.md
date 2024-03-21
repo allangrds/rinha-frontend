@@ -9,3 +9,13 @@
 - [Technologies](#technologies)
 - [Tech decisions](#tech-decisions)
 - [Demo video](#demo-video)
+
+
+## Requeriments
+
+- Node v20.11.0
+- NPM v10.2.4
+
+or
+
+- Volta v1.1.0
